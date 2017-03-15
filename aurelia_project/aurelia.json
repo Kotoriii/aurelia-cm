@@ -127,6 +127,14 @@
           "aurelia-task-queue",
           "aurelia-templating",
           "aurelia-templating-binding",
+          {
+            "name": "nprogress",
+            "path": "../node_modules/nprogress",
+            "main": "nprogress",
+            "resources": [
+              "nprogress.css"
+            ]
+          },
           "text",
           {
             "name": "aurelia-templating-resources",
